@@ -3,6 +3,7 @@ from components.find_empty_square import *
 from components.grid_checker import *
 
 
+#sample board 
 
 board = [
     [0,7,0,0,2,0,9,0,0],
