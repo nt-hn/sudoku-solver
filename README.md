@@ -1,2 +1,2 @@
 # sudoku-solver
-Python code to solve sudoku game
+Python using backtracking code to solve sudoku game
