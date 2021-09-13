@@ -8,7 +8,7 @@ def visualize_board(board):
         for j in range(len(board[0])):
 
             if j%3==0 and j!=0:
-                print(' │ ', end="") # end makes sure they aer on the same line
+                print(' │ ', end="") # end makes sure they are on the same line
 
             if j==8:
                 print(board[i][j])
